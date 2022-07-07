@@ -638,6 +638,41 @@
             </File>
           </Files>
         </Group>
+        <Group>
+          <GroupName>doudizhu</GroupName>
+          <Files>
+            <File>
+              <FileName>game_logic.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\src\game_logic.c</FilePath>
+            </File>
+            <File>
+              <FileName>game_proc.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\src\game_proc.c</FilePath>
+            </File>
+            <File>
+              <FileName>game_ui.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\src\game_ui.c</FilePath>
+            </File>
+            <File>
+              <FileName>game_logic.h</FileName>
+              <FileType>5</FileType>
+              <FilePath>.\src\game_logic.h</FilePath>
+            </File>
+            <File>
+              <FileName>game_proc.h</FileName>
+              <FileType>5</FileType>
+              <FilePath>.\src\game_proc.h</FilePath>
+            </File>
+            <File>
+              <FileName>game_ui.h</FileName>
+              <FileType>5</FileType>
+              <FilePath>.\src\game_ui.h</FilePath>
+            </File>
+          </Files>
+        </Group>
       </Groups>
     </Target>
   </Targets>
